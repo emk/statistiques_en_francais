@@ -11,9 +11,9 @@ Des vidéos utiles : [Les statistiques en français sur Khan Academy](https://fr
 Vous pouvez voir le fichiers `*.ipynb` en ligne avec
 [nbviewer](http://nbviewer.ipython.org/):
 
-* [Distribution binomiale](http://nbviewer.ipython.org/urls/raw.github.com/emk/statistiques_en_francais/master/Ecart%2520type.ipynb)
+* [L'Écart type](http://nbviewer.ipython.org/urls/raw.github.com/emk/statistiques_en_francais/master/Ecart%2520type.ipynb)
 * [Distribution binomiale](http://nbviewer.ipython.org/urls/raw.github.com/emk/statistiques_en_francais/master/Distribution%2520binomiale.ipynb)
 * [Processus de Poisson](http://nbviewer.ipython.org/urls/raw.github.com/emk/statistiques_en_francais/master/Processus%2520de%2520Poisson.ipynb)
-* [Distribution binomiale](http://nbviewer.ipython.org/urls/raw.github.com/emk/statistiques_en_francais/master/Videos%2520interessantes.ipynb)
+* [Vidéos intéressantes](http://nbviewer.ipython.org/urls/raw.github.com/emk/statistiques_en_francais/master/Videos%2520interessantes.ipynb)
 
 [ipynb]: http://ipython.org/notebook.html
