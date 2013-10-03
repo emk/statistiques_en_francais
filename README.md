@@ -15,5 +15,6 @@ Vous pouvez voir le fichiers `*.ipynb` en ligne avec
 * [Distribution binomiale](http://nbviewer.ipython.org/urls/raw.github.com/emk/statistiques_en_francais/master/Distribution%2520binomiale.ipynb)
 * [Processus de Poisson](http://nbviewer.ipython.org/urls/raw.github.com/emk/statistiques_en_francais/master/Processus%2520de%2520Poisson.ipynb)
 * [Vidéos intéressantes](http://nbviewer.ipython.org/urls/raw.github.com/emk/statistiques_en_francais/master/Videos%2520interessantes.ipynb)
+* [Loi de grands nombres](http://nbviewer.ipython.org/urls/raw.github.com/emk/statistiques_en_francais/master/Loi%2520de%2520grands%2520nombres.ipynb)
 
 [ipynb]: http://ipython.org/notebook.html
